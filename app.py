@@ -23,7 +23,7 @@ def main():
 
     st.write(font_css, unsafe_allow_html=True)
 
-    tabs = st.tabs((''))
+    tabs = st.tabs(('_'))
 
     with tabs[0]:
         panorama()
