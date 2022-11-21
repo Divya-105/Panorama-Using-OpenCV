@@ -23,7 +23,7 @@ def main():
 
     st.write(font_css, unsafe_allow_html=True)
 
-    tabs = st.tabs(('Panorama Image Created By Divya Chaudhari(Roll No 227)'))
+    #tabs = st.tabs(('Panorama Image Created By Divya Chaudhari(Roll No 227)'))
 
     with tabs[0]:
         panorama()
